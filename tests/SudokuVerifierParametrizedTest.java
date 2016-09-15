@@ -6,7 +6,7 @@ public class SudokuVerifierParametrizedTest {
 
 	@Test
 	public void Return0Test() {
-		fail("Not yet implemented");
+		assertEquals("0", candidateSolution);
 	}
 
 }

@@ -9,7 +9,7 @@ public class SudokuVerifierTest {
 
 	@Test
 	public void testVerify() {
-		assertEquals(0, );
+		assertEquals("0");
 	}
 
 }
