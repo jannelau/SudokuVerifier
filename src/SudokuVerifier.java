@@ -1,4 +1,6 @@
 import static org.hamcrest.CoreMatchers.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class SudokuVerifier {
 
