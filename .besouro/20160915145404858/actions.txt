@@ -11,3 +11,12 @@ RefactoringAction 1473941920720 SudokuVerifier.java RENAME somethinf=>int someth
 RefactoringAction 1473943405578 SudokuVerifier.java ADD String working FIELD
 RefactoringAction 1473943408593 SudokuVerifier.java RENAME working=>String workingstring FIELD
 EditAction 1473943411501 SudokuVerifier.java 423 1 1 0
+RefactoringAction 1473943510721 SudokuVerifier.java REMOVE workingstring FIELD
+RefactoringAction 1473943513754 SudokuVerifier.java ADD String workingstring FIELD
+RefactoringAction 1473943518278 SudokuVerifier.java ADD import String IMPORT
+RefactoringAction 1473943527791 SudokuVerifier.java ADD String goodstring FIELD
+RefactoringAction 1473943529320 SudokuVerifier.java ADD import org.junit.Assert.* IMPORT
+RefactoringAction 1473943543898 SudokuVerifier.java ADD import org.hamcrest.Corematchers.* IMPORT
+RefactoringAction 1473943553923 SudokuVerifier.java RENAME import org.hamcrest.Corematchers.*=>import org.hamcrest.Coreatchers.* IMPORT
+RefactoringAction 1473943554938 SudokuVerifier.java RENAME import org.hamcrest.Coreatchers.*=>import org.hamcrest.CoreMatchers.* IMPORT
+EditAction 1473943560066 SudokuVerifier.java 467 1 1 0
