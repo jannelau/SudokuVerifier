@@ -11,6 +11,8 @@ public class SudokuVerifier {
 	public int verify(String candidateSolution) {
 		
 		//check row
+		workingstring = goodstring.substring (0,9);
+		
 		
 		
 		//check column
