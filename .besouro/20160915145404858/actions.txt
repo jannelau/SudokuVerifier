@@ -91,3 +91,4 @@ CompilationAction 1473947484000 SudokuVerifier.java
 RefactoringAction 1473947497821 SudokuVerifierParametrizedTest.java RENAME test()=>void Return() METHOD
 RefactoringAction 1473947500344 SudokuVerifierParametrizedTest.java RENAME Return()=>void Return0() METHOD
 EditAction 1473947502103 SudokuVerifierParametrizedTest.java 179 1 1 0
+EditAction 1473947538801 SudokuVerifierTest.java 380 1 0 0
