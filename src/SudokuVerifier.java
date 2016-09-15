@@ -13,7 +13,6 @@ public class SudokuVerifier {
 		//check row
 		workingstring = goodstring.substring (0,9);
 		
-	
 		
 		
 		
