@@ -9,6 +9,13 @@ public class SudokuVerifier {
 	
 	public int verify(String candidateSolution) {
 		
+		//check row
+		
+		
+		//check column
+		
+		
+		//check grids
 		
 
 		// returns 0 if the candidate solution is correct
