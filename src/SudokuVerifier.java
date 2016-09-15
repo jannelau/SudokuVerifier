@@ -9,13 +9,25 @@ public class SudokuVerifier {
 	int something = 0;
 	String workingstring;
 	int index;
+	int one;
+	int two;
+	int three;
+	int four;
+	int five;
+	int six;
+	int seven;
+	int eight;
+	int nine;
 	
 	public int verify(String candidateSolution) {
 		
 		//check row
-		workingstring = goodstring.substring (0,9);
+		//workingstring = goodstring.substring (0,9);
+		workingstring = "123156781";
 		
+		workingstring.
 		
+		//System.out.print(workingstring);
 		
 		
 		
