@@ -65,3 +65,29 @@ RefactoringAction 1473947073554 SudokuVerifier.java ADD int seven FIELD
 RefactoringAction 1473947073554 SudokuVerifier.java ADD int eight FIELD
 RefactoringAction 1473947073555 SudokuVerifier.java ADD int nine FIELD
 EditAction 1473947077546 SudokuVerifier.java 828 1 0 0
+CompilationAction 1473947077775 SudokuVerifier.java
+CompilationAction 1473947081408 SudokuVerifier.java
+CompilationAction 1473947081564 SudokuVerifier.java
+CompilationAction 1473947132101 SudokuVerifier.java
+CompilationAction 1473947132258 SudokuVerifier.java
+FileOpenedAction 1473947175091 TennisGame.java 617 3 4 0
+FileOpenedAction 1473947191305 TennisGameTest.java 1957 6 35 4
+CompilationAction 1473947342285 SudokuVerifier.java
+CompilationAction 1473947342409 SudokuVerifier.java
+RefactoringAction 1473947350608 SudokuVerifier.java ADD char c FIELD
+CompilationAction 1473947352558 SudokuVerifier.java
+CompilationAction 1473947352731 SudokuVerifier.java
+RefactoringAction 1473947382677 SudokuVerifier.java ADD Map<Character,Integer> map FIELD
+CompilationAction 1473947384874 SudokuVerifier.java
+CompilationAction 1473947385038 SudokuVerifier.java
+CompilationAction 1473947403181 SudokuVerifier.java
+CompilationAction 1473947403346 SudokuVerifier.java
+CompilationAction 1473947403346 SudokuVerifier.java
+CompilationAction 1473947413633 SudokuVerifier.java
+CompilationAction 1473947413634 SudokuVerifier.java
+CompilationAction 1473947413794 SudokuVerifier.java
+CompilationAction 1473947483842 SudokuVerifier.java
+CompilationAction 1473947484000 SudokuVerifier.java
+RefactoringAction 1473947497821 SudokuVerifierParametrizedTest.java RENAME test()=>void Return() METHOD
+RefactoringAction 1473947500344 SudokuVerifierParametrizedTest.java RENAME Return()=>void Return0() METHOD
+EditAction 1473947502103 SudokuVerifierParametrizedTest.java 179 1 1 0

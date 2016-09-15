@@ -9,6 +9,9 @@ public class SudokuVerifier {
 	int something = 0;
 	String workingstring;
 	int index;
+	char c;
+	Map<Character,Integer> map = new HashMap<Character,Integer>();
+	
 	int one;
 	int two;
 	int three;
@@ -25,7 +28,11 @@ public class SudokuVerifier {
 		//workingstring = goodstring.substring (0,9);
 		workingstring = "123156781";
 		
-		workingstring.
+	    for(int i=0; i<8; i++){
+	    	char c = goodstring.charAt(i);
+	    	if (map.containsKey(c)) {
+		
+	    }
 		
 		//System.out.print(workingstring);
 		
@@ -43,4 +50,4 @@ public class SudokuVerifier {
 		
 		//check
 	}
-}
+	}
