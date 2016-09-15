@@ -25,3 +25,11 @@ EditAction 1473943645910 SudokuVerifier.java 524 1 1 0
 RefactoringAction 1473943662791 SudokuVerifier.java ADD String nex FIELD
 RefactoringAction 1473943667334 SudokuVerifier.java RENAME nex=>int index FIELD
 EditAction 1473943668711 SudokuVerifier.java 536 1 1 0
+FileOpenedAction 1473944582385 Main.java 55 0 0 0
+RefactoringAction 1473944612388 Main.java ADD static void main(String METHOD
+RefactoringAction 1473944637442 Main.java REMOVE Main.java CLASS
+RefactoringAction 1473944648997 StringExperiment.java ADD StringExperiment.java CLASS
+FileOpenedAction 1473944649121 StringExperiment.java 67 0 0 0
+RefactoringAction 1473944718288 StringExperiment.java REMOVE main(String METHOD
+RefactoringAction 1473944719797 StringExperiment.java ADD static void main(String METHOD
+EditAction 1473944721959 StringExperiment.java 121 1 0 0
