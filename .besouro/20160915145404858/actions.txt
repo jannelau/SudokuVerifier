@@ -1,0 +1,5 @@
+FileOpenedAction 1473940444994 SudokuVerifierTest.java 390 1 1 0
+FileOpenedAction 1473941339843 GildedRoseTest.java 2735 6 36 6
+RefactoringAction 1473941373282 SudokuVerifierTest.java ADD int verify FIELD
+RefactoringAction 1473941396900 SudokuVerifierTest.java REMOVE verify FIELD
+EditAction 1473941485367 SudokuVerifier.java 292 1 3 0
