@@ -6,6 +6,7 @@ public class SudokuVerifier {
 	String badstring ="123456789912345678891234567789123456678912345567891234456789123345678912234567891";
 	int something = 0;
 	String workingstring;
+	int index;
 	
 	public int verify(String candidateSolution) {
 		
