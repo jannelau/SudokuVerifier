@@ -24,7 +24,7 @@ public class SudokuVerifier {
 	
 	public int verify(String candidateSolution) {
 		
-		//check row
+		//check rowaaaa
 		//workingstring = goodstring.substring (0,9);
 		workingstring = "123156781";
 		
